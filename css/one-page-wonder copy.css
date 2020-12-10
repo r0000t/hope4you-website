@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
  */
 
-body {
+ body {
   font-family: 'Lato';
 }
 
@@ -59,7 +59,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #b4babd 0%, #5990cf 100%);
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -83,7 +83,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #5990cf 0%, #b4babd 100%);
+  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
 }
 
 header.masthead .bg-circle-1 {
@@ -128,17 +128,17 @@ header.masthead .bg-circle-4 {
 }
 
 .bg-primary {
-  background-color: #5990cf !important;
+  background-color: #ee0979 !important;
 }
 
 .btn-primary {
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #ee0979;
+  border-color: #ee0979;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #5990cf !important;
-  border-color: #5990cf !important;
+  background-color: #bd0760 !important;
+  border-color: #bd0760 !important;
 }
 
 .btn-primary:focus {
